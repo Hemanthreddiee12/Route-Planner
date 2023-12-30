@@ -18,3 +18,6 @@ users to easily input their starting and ending points on a map
 and select their preferred mode of transportation. The software
 delivers real-time solutions, taking into account factors such as
 distance, time, and cost to provide a comprehensive and user-friendly experience.
+
+You can see the output here:
+https://route-planner-amrita.streamlit.app/
