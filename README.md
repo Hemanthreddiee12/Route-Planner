@@ -9,7 +9,7 @@ Own Transport, Shortest Time Path via Public Transport, and
 Cheapest Price Path via Public Transport. Say goodbye to
 inefficient bus journeys with this efficient and user-friendly
 tool.The implementation utilizes a graph-based depiction of the
-bus network, with vertices representing bus stops and edges illustrating the links between stops. These vertices contain valuable
+bus network, with vertices representing bus stops and edges illustrating the links between stops. These vertices contain valuable
 data on bus categories, distances, and estimated travel times.
 Multiple bus types are accommodated by the application, each
 distinguished by its unique velocity, fare, and designated route.
